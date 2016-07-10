@@ -1,0 +1,11 @@
+{
+  "name": "try-bitcore-p2p",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "bitcore-p2p": "^1.1.0",
+    "iced-runtime": "^1.0.3",
+    "underscore": "^1.8.3"
+  }
+}

@@ -1,0 +1,5 @@
+# npm start
+#
+# or
+#
+node dist/index.js
